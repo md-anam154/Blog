@@ -1,0 +1,1 @@
+All the blogs are stored in backend.js, so access.js and backend.js should be run on different terminals. Through access.js, a user interacts with backend.js API to get hold of the existing blogs, edit and delete them, and can even create/post new blogs.
